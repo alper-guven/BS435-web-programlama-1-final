@@ -1,5 +1,4 @@
-# www.youtube.com sitesinin frontend birebir yeniden tasarımı 
-## BS435 Web Programlama 1 Dersi FİNAL Sorusu
+## BS435 Web Programlama 1 Dersi FİNAL Sorusu - Alışveriş Sistemi
 ### Erciyes Üniversitesi Bilgisayar Mühendisliği Bölümü  
 
 Hazırlayan: **Alper Güven**
